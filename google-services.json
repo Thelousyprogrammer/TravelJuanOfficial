@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74890772792",
+    "project_id": "traveljuan-89b17",
+    "storage_bucket": "traveljuan-89b17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74890772792:android:3e8bfae5450e03f32e81cd",
+        "android_client_info": {
+          "package_name": "com.exphysius.OCVTravelJuan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtYIYeFMPlEucmhT6aM5h7AL8t75kRMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
