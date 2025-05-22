@@ -18,7 +18,12 @@
       },
       "edgeToEdgeEnabled": true,
       "package": "com.exphysius.OCVTravelJuan",
-      "googleServicesFile": "./google-services.json"
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyABayut8L-w75m5gEHIkjhjL6ej_gYwVeg" // <-- PASTE YOUR ACTUAL ANDROID API KEY HERE
+        }
+      }
     },
     "web": {
       "bundler": "metro",
