@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# ![Shinkansen-Ani-ezgif com-rotate](https://github.com/user-attachments/assets/c1542006-36ca-4294-84ed-75d890e7cb18) TravelJuan Official Repository ![Shinkansen-Ani-ezgif com-resize](https://github.com/user-attachments/assets/ce9c87e9-0293-44d7-a511-e021e97c92ee)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- - -
 
-## Get started
+Welcome to TravelJuan! The commuter companion application made for commuters, by commuters.
 
-1. Install dependencies
+TravelJuan is a project for a commuter companion app that serves the Filipino commuters as well as tourists who are visiting The Philippines. It comprises of the following sections:
 
-   ```bash
-   npm install
-   ```
+1. Menu - This is where it showcases the nearest metro station, landmarks near within the station, beepcard balance overview, alerts for operation problems/delays, coupons and rolling stock information. (Coupons and Rolling Stock Info is not yet developed as of this build writing.)
 
-2. Start the app
+2. Ride - This section comprises of Map, where you can select a rail station nearby and where you select a particular route that you want to travel.
 
-   ```bash
-   npx expo start
-   ```
+3. Tickets - This section comprises of your ticket card, top up, and add/remove cards. The add/remove cards feature is only for beepcards. All expired beepcards will still have transferrable load within a year since expiration using the app. (Top up, Add/Remove Beepcards will still be developing at a later date!)
 
-In the output, you'll find options to open the app in a
+4. Account - This section comprises of your personal information. Options like customer service, account deletion and many more will be added to this particular section in later developments.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+5. Guide - This section is used to explore The Philippines by Rail with ranging landmarks nearby stations at either walking distance or riding another mode of transport! This can be accessed in the Ride section at the top right of the app!
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Originally built using React Native with Firebase integration, this build currently supports Android Development and an upcoming iOS Development support will be released at a later date!
 
-## Get a fresh project
+This build is now also marked as the v1.0.0 OCV. The OCV represents Official Community Version where anyone in the development community can reproduce this application using a different language, or an update for adding new features, upgraded tech stack, and many more. Feel free to clone and create/upgrade this application with the sole goal of imrpoving the commuting experience one travel at a time.
 
-When you're ready, run:
+Happy developing, and remember:
+Move people, not cars!
+![beb6d7_12b0e66f9a06438680d71ae42eece19f~mv2.gif](https://mdedit.s3.us-west-2.amazonaws.com/78d60740-f968-41d9-a8af-a4c07b28efca.gif)
+- - -
 
-```bash
-npm run reset-project
-```
+Gif Credits:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Gif 1: https://www.patackermanart.com/
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Gif 2: https://shaninmanuel.wixsite.com/skyescraper/single-post/2019/07/01/light-rail-transit
